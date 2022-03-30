@@ -1,0 +1,142 @@
+{
+
+  "Deidre": {
+
+    "Parchments, Please": {
+      "Name": "Parchments, Please",
+      "Description": "Your first quest! In all the commotion of getting the bar up and running again, you neglected to pick up your bartending certification from City Hall. You could always run across town to grab it, but there may be a better way to accomplish this...",
+      "Quests": [ "Send a Courier" ],
+      "IsUnlockedFromStart": true
+    }
+
+  },
+
+  "Artie": {
+
+    "Unemployment": {
+      "Name": "Unemployment",
+      "Description": "The collapsed mines put a lot of good people out of work, including Artie. Maybe you can help them out!",
+      "Quests": [ "Give a Gift", "Contract Artie" ],
+      "IsUnlockedFromStart": false
+    }
+  },
+
+  "OldManHorace": {
+
+
+  },
+
+
+  "Nell": {
+
+
+
+  },
+
+  "Mavis": {
+
+    "A Lack of Info": {
+      "Name": "A Lack of Info",
+      "Description": "The Codex gave the College an interesting lead, but now they need to take one more step. Unfortunately, that step might be on the Corporeal's toes.",
+      "Quests": [ "Conduct an Experiment", "Ask the Corporeal" ],
+      "IsUnlockedFromStart": false
+    },
+    "Shaken, not Deterred": {
+      "Name": "Shaken, not Deterred",
+      "Description": "To spy on a private meeting of the City Council is forbidden- perhaps even treasonous! However, Mavis staunchly claims that this is for the greater good. Perhaps it'd be best to think carefully about how to handle this- it's hard not to shake the feeling that this could be important.",
+      "Quests": [ "Spy on the Meeting", "Disclose the College's Request" ],
+      "IsUnlockedFromStart": false
+    },
+    "Playing Politics": {
+      "Name": "Playing Politics",
+      "Description": "Nobody- not even the mayor- has been allowed to approach the Spire, save for the Corporeal. However, Mavis says that time is of the essence, and if the city is to be saved, you're left with very little choice. One way or another, you'll need to get her a piece of the Spire.",
+      "Quests": [ "Knock Out the Guard", "Bypass the Fence" ],
+      "IsUnlockedFromStart": false
+    },
+
+    "The Path Before": {
+      "Name": "The Path Before",
+      "Description": "As the Spire grows more powerful, the College needs more space to research. However, their magical methods of research might cause unforeseen problems. Whoever gains access to the Spire now, gains the political upper hand.",
+      "Quests": [ "Emphasize Caution", "Emphasize Potential" ],
+      "IsUnlockedFromStart": false
+    },
+
+    "Your Better Judgement": {
+      "Name": "Your Better Judgement",
+      "Description": "As the Spire grows more powerful, the College needs more space to research. However, their magical methods of research might cause unforeseen problems. Whoever gains access to the Spire now, gains the political upper hand.",
+      "Quests": [ "Emphasize Caution", "Emphasize Potential" ],
+      "IsUnlockedFromStart": false
+    },
+
+    "The Path Ahead": {
+      "Name": "The Path Ahead",
+      "Description": "As the Spire grows more powerful, the College needs more space to research. However, their magical methods of research might cause unforeseen problems. Whoever gains access to the Spire now, gains the political upper hand.",
+      "Quests": [ "Emphasize Caution", "Emphasize Potential" ],
+      "IsUnlockedFromStart": false
+    },
+
+    "Between Two Barstools": {
+      "Name": "Between Two Barstools",
+      "Description": "An imprisoned member of the College has further divided the two factions, and will stand trial this evening. It appears there's only one of two ways this can end. The real question is, who stands on the right side of history?",
+      "Quests": [ "Aid the Corporeal", "Aid the College" ],
+      "IsUnlockedFromStart": false
+
+    }
+
+
+  },
+
+  "Gaius": {
+
+    "A Matter of Magic": {
+      "Name": "A Matter of Magic",
+      "Description": "The divine text is in another, indecipherable language. If you want to learn what it means, you could take it to the College. It might help their research, and they'd appreciate the show of support regardless. Then again, the Corporeal may not be happy with that decision.",
+      "Quests": [ "Give it to the College", "Return it" ],
+      "IsUnlockedFromStart": false
+    },
+
+    "Forbidden Actions": {
+      "Name": "Forbidden Actions",
+      "Description": "After gaining the Coporeal's trust, Gaius has another dilemma- to follow the path given to the Corporeal by the Pantheon or use a magical item to track the Spire's power.",
+      "Quests": [ "Schmooze the Eyes", "Use a Relic" ],
+      "IsUnlockedFromStart": false
+    },
+
+    "Honor Before Glory": {
+      "Name": "Honor Before Glory",
+      "Description": "The sanctity of the Spire is at risk of being tainted, and with the state that it's currently in, the Corporeal can't take any chances. The College should not be allowed to break into such holy grounds, and it very well may come down to you to help them.",
+      "Quests": [ "Send Additional Troops", "Lay a Trap" ],
+      "IsUnlockedFromStart": false
+
+    },
+
+    "Between Two Barstools": {
+      "Name": "Between Two Barstools",
+      "Description": "The College is on the verge of acquiring what may very well be dangerous information, according to the Corporeal, and they're willing to do anything to stop it. Is their plight just? Or is the public deserving of this unknown information? Tread carefully now- this decision may have lasting repercussions.",
+      "Quests": [ "Support the Corporeal", "Support the College" ],
+      "IsUnlockedFromStart": false
+
+    }
+
+  },
+
+
+  "Jim": {
+
+    "The Commotion": {
+      "Name": "The Commotion",
+      "Description": "That earth-shattering commotion from earlier was very worrying. It'd be in your best interest to figure out what happened, but unfortunately, you can't run around and leave your parents' bar unattended. Perhaps you could get someone to go and let you know what happened?",
+      "Quests": [ "Locate the Source" ],
+      "IsUnlockedFromStart": true
+    },
+
+    "Your Civic Duty": {
+      "Name": "Your Civic Duty",
+      "Description": "The Spire's on the brink of collapse and the Corporeal has yet to issue any kind of response. It's only been a day, but the citizens have grown restless, protesting in front of City Hall. At this rate, they may even manage to push past the line of guards who are keeping them at bay.",
+      "Quests": [ "Stir the Crowds!", "Hold the Line!" ],
+      "IsUnlockedFromStart": true
+    }
+
+  }
+
+}

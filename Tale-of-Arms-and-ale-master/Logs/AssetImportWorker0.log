@@ -1,0 +1,369 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.11f1 (99c7afb366b3) revision 10078127'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 18363.1556; Version 1909; 64bit' Language: 'en' Physical Memory: 8043 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Nathan/Downloads/Tale-of-Arms-and-ale-master/Tale-of-Arms-and-ale-master
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58694
+Successfully changed project path to: C:/Users/Nathan/Downloads/Tale-of-Arms-and-ale-master/Tale-of-Arms-and-ale-master
+C:/Users/Nathan/Downloads/Tale-of-Arms-and-ale-master/Tale-of-Arms-and-ale-master
+Using Asset Import Pipeline V2.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Refreshing native plugins compatible for Editor in 103.67 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Nathan/Downloads/Tale-of-Arms-and-ale-master/Tale-of-Arms-and-ale-master/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   
+    VRAM:     4021 MB
+    Driver:   26.20.100.7986
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56604
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005109 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 86.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.517 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.015234 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.724 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.18 seconds
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1555 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.6 MB.
+System memory in use after: 74.7 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1988.
+Total: 10.995400 ms (FindLiveObjects: 0.255900 ms CreateObjectMapping: 0.088200 ms MarkObjects: 10.030500 ms  DeleteObjects: 0.616300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Art/Characters
+  artifactKey: Guid(5680434ad771fd7498a449ef527cb2cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Characters using Guid(5680434ad771fd7498a449ef527cb2cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03c61e046a3cbb1bcc9e0c8440bbccd7') in 0.044118 seconds
+  Import took 0.049657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001143 seconds.
+  path: Assets/Art/Characters/Mavis Hullbrook.png
+  artifactKey: Guid(e1ac739ed738fdf438580418de52a6fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Characters/Mavis Hullbrook.png using Guid(e1ac739ed738fdf438580418de52a6fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb46e5ec9591b970876726cb5c70f648') in 0.658309 seconds
+  Import took 0.663657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000713 seconds.
+  path: Assets/Art/Bar/BarIcons/AlcoholIconUpdated.PNG
+  artifactKey: Guid(27f31966ceab2b346b59d16f0d1a7b1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Bar/BarIcons/AlcoholIconUpdated.PNG using Guid(27f31966ceab2b346b59d16f0d1a7b1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18fa9741dc5d88f3ded11e50a669e495') in 0.138405 seconds
+  Import took 0.143462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000852 seconds.
+  path: Assets/Art/Characters/Old Man Horace.png
+  artifactKey: Guid(22cec4b61e545af4982e4982823a9ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Characters/Old Man Horace.png using Guid(22cec4b61e545af4982e4982823a9ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd86b72a1a2f33fb20da3461bdabb697e') in 0.159883 seconds
+  Import took 0.171285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000904 seconds.
+  path: Assets/Art/Characters/Nell Emberquill.png
+  artifactKey: Guid(264cd7cbafe80634da5aec9b4f360bed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Characters/Nell Emberquill.png using Guid(264cd7cbafe80634da5aec9b4f360bed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0b0db2e69af95a7153257a929d264d7') in 0.186287 seconds
+  Import took 0.192675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000676 seconds.
+  path: Assets/Art/Characters/Artie Cagosh.png
+  artifactKey: Guid(67a7591d06412ef44bdf2465d59a348d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Characters/Artie Cagosh.png using Guid(67a7591d06412ef44bdf2465d59a348d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6997e3e66f186690f64a9953949df798') in 0.096382 seconds
+  Import took 0.101730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000708 seconds.
+  path: Assets/Art/DrinkAnimations/fire_fx.png
+  artifactKey: Guid(9f0d0dc4fc3e9fa48a6fc1dce9edb25a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/DrinkAnimations/fire_fx.png using Guid(9f0d0dc4fc3e9fa48a6fc1dce9edb25a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16e5810fdb2042c834cec4b6fd36c49e') in 0.087178 seconds
+  Import took 0.096678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000794 seconds.
+  path: Assets/Art/EndOfBarManagement/TavnernkeepersJournalHighlighted.png
+  artifactKey: Guid(8ae7990cb69650d4e95cd8c948587ba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/EndOfBarManagement/TavnernkeepersJournalHighlighted.png using Guid(8ae7990cb69650d4e95cd8c948587ba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad8f3305c9ac749464da885689f451cd') in 0.114959 seconds
+  Import took 0.122912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Art/Bar/BarIcons/RumorIcon.png
+  artifactKey: Guid(04b06c1089fcb8f40a29a78184b19d1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Bar/BarIcons/RumorIcon.png using Guid(04b06c1089fcb8f40a29a78184b19d1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7a8cde30140505f887e013de44a3df2') in 0.091245 seconds
+  Import took 0.096915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001180 seconds.
+  path: Assets/Art/Bar/BarIcons/ReturningIcon.png
+  artifactKey: Guid(49e968deb331d9e408a0e810aecbc716) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Bar/BarIcons/ReturningIcon.png using Guid(49e968deb331d9e408a0e810aecbc716) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f91bfc3d87168c539798ddf11e8fd62') in 0.106801 seconds
+  Import took 0.117231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000539 seconds.
+  path: Assets/Art/Bar/BarIcons/AdventurerIcon.png
+  artifactKey: Guid(54eb990fb3f7d914a9160a954664b68d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Bar/BarIcons/AdventurerIcon.png using Guid(54eb990fb3f7d914a9160a954664b68d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f80e2938e8af8c6744320218be6a56b9') in 0.117989 seconds
+  Import took 0.125182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/Art/EndOfBarManagement/TavernkeepersJournalIdle.png
+  artifactKey: Guid(749b8640726897a4ea908358537bd2e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/EndOfBarManagement/TavernkeepersJournalIdle.png using Guid(749b8640726897a4ea908358537bd2e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dfeb914ca0ed02f0ecfccca79d6432f') in 0.164209 seconds
+  Import took 0.172208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000463 seconds.
+  path: Assets/Art/EndOfBarManagement
+  artifactKey: Guid(c32740983aca7bb42b19b8cd805c11da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/EndOfBarManagement using Guid(c32740983aca7bb42b19b8cd805c11da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2830751982e15fb5190d448e0c21e340') in 0.050595 seconds
+  Import took 0.058242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000894 seconds.
+  path: Assets/Art/Characters/Gaius The Meek.png
+  artifactKey: Guid(1cd09db771ca2af44804b38a3fe1a777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Characters/Gaius The Meek.png using Guid(1cd09db771ca2af44804b38a3fe1a777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf3255dc3f1a25aa6446a6eb174d7329') in 0.143948 seconds
+  Import took 0.158649 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000466 seconds.
+  path: Assets/Art/Characters/Jim.png
+  artifactKey: Guid(ae07544b18f57074ebe095be5e7f9485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Characters/Jim.png using Guid(ae07544b18f57074ebe095be5e7f9485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fd0e1fa724df2c523bca18451defe7b') in 0.175819 seconds
+  Import took 0.190104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/Art/DrinkAnimations
+  artifactKey: Guid(8448413f82de8874c9fc43d9e3038672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/DrinkAnimations using Guid(8448413f82de8874c9fc43d9e3038672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbffab99fb5d37e7a5b9332c7f9a3e44') in 0.097407 seconds
+  Import took 0.112702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001520 seconds.
+  path: Assets/Art/Bar/BarIcons/AlcoholIcon.png
+  artifactKey: Guid(46fce15c62a089a4fbc4fe5f399717b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Bar/BarIcons/AlcoholIcon.png using Guid(46fce15c62a089a4fbc4fe5f399717b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0351874a4b34e6cbc2f1e05f38980b20') in 0.093091 seconds
+  Import took 0.101006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/Art/Bar
+  artifactKey: Guid(0dcb85fe1a5b5594d8ca5e5ef18d9dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Bar using Guid(0dcb85fe1a5b5594d8ca5e5ef18d9dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7add60d8e1656cab9c7f820ecaf2d52d') in 0.041786 seconds
+  Import took 0.047928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Art/Bar/BarIcons
+  artifactKey: Guid(f63980862e141b44395af3cc8579e35d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Bar/BarIcons using Guid(f63980862e141b44395af3cc8579e35d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45e65280133179026d68bbfdbb94e576') in 0.047941 seconds
+  Import took 0.053808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.068113 seconds.
+  path: Assets/Art/FactionIcons
+  artifactKey: Guid(d860c69ac77942541814aaac269d49b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/FactionIcons using Guid(d860c69ac77942541814aaac269d49b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '041caf5509a103bac6ef372637377df5') in 0.048820 seconds
+  Import took 0.053375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042152 seconds.
+  path: Assets/Art/FactionIcons/AA_base.JPG
+  artifactKey: Guid(a7dee576fade3834d96bfef0fe1e0dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/FactionIcons/AA_base.JPG using Guid(a7dee576fade3834d96bfef0fe1e0dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2c06412b0575fd7870860671e12d06b') in 0.077824 seconds
+  Import took 0.087475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002011 seconds.
+  path: Assets/Art/FactionIcons/TheCollege.JPG
+  artifactKey: Guid(974eabb841dfd8a4aa8a294298e80eb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/FactionIcons/TheCollege.JPG using Guid(974eabb841dfd8a4aa8a294298e80eb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff35305c719210f72c8edff1200ec111') in 0.099805 seconds
+  Import took 0.107115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Art/FactionIcons/AA_base.JPG
+  artifactKey: Guid(a7dee576fade3834d96bfef0fe1e0dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/FactionIcons/AA_base.JPG using Guid(a7dee576fade3834d96bfef0fe1e0dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2c06412b0575fd7870860671e12d06b') in 0.113723 seconds
+  Import took 0.123493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000436 seconds.
+  path: Assets/Art/FactionIcons/Corporeal.JPG
+  artifactKey: Guid(b0974843302609b43a6ce10247da476c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/FactionIcons/Corporeal.JPG using Guid(b0974843302609b43a6ce10247da476c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fe0bf2fb4d8712291ed3598d590bd30') in 0.142993 seconds
+  Import took 0.149058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Art/FactionIcons/unknown.png
+  artifactKey: Guid(68f76fade5fd1144eb27c3f6e3cedd39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/FactionIcons/unknown.png using Guid(68f76fade5fd1144eb27c3f6e3cedd39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a221e5c4a3bc4ebd591bbd10b1088d81') in 0.120954 seconds
+  Import took 0.129457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.243991 seconds.
+  path: Assets/Art/GoldCounterNumbers
+  artifactKey: Guid(fb109a8012e023442831c1ab2ec899f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/GoldCounterNumbers using Guid(fb109a8012e023442831c1ab2ec899f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbd2359adaffc9a5629a886cb1129ec7') in 0.060587 seconds
+  Import took 0.066354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.053055 seconds.
+  path: Assets/Art/GoldCounterNumbers/FinalizedNumbers.png
+  artifactKey: Guid(d9764a7b73429e540b2ae34a0883505d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/GoldCounterNumbers/FinalizedNumbers.png using Guid(d9764a7b73429e540b2ae34a0883505d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2372a7745801c81161e05984f4136605') in 0.115627 seconds
+  Import took 0.122162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 258.415873 seconds.
+  path: Assets/Art/GoldCounterNumbers/FinalizedNumbers.png
+  artifactKey: Guid(d9764a7b73429e540b2ae34a0883505d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/GoldCounterNumbers/FinalizedNumbers.png using Guid(d9764a7b73429e540b2ae34a0883505d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15eaf1cc36fc47fd14e43f058df89788') in 0.111803 seconds
+  Import took 0.126095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.572862 seconds.
+  path: Assets/Art/UI/Details/LongDash.png
+  artifactKey: Guid(520d039a172ac174596a4bad2d5dbaee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Details/LongDash.png using Guid(520d039a172ac174596a4bad2d5dbaee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a88fc55e007c48996717514be50e17e1') in 0.075010 seconds
+  Import took 0.081512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000604 seconds.
+  path: Assets/Art/UI/Details/ShortDash.png
+  artifactKey: Guid(1a07e35578f133d41b82e68d67573702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Details/ShortDash.png using Guid(1a07e35578f133d41b82e68d67573702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33575000b3670867567afed221445440') in 0.081651 seconds
+  Import took 0.088037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Art/UI/VerticalDash.png
+  artifactKey: Guid(8bafaf5b91cabae4a933fece775f752b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/VerticalDash.png using Guid(8bafaf5b91cabae4a933fece775f752b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae3d9d778943076c3bfc47a45ca1368a') in 0.093753 seconds
+  Import took 0.097561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Art/UI/Details/MediumDash.png
+  artifactKey: Guid(efd63e5d44bfd0c47b02db64d258f89d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/UI/Details/MediumDash.png using Guid(efd63e5d44bfd0c47b02db64d258f89d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7c1e672cc64cf400c859dc1241d4452') in 0.083317 seconds
+  Import took 0.089292 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

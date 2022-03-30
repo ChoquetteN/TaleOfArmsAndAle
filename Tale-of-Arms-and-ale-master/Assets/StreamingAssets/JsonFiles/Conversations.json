@@ -1,0 +1,3194 @@
+{
+
+  "Deidre Downton": {
+    "Parchments, Please": {
+      "Name": "Introduction",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "So, you're the squirt that runs this place now?",
+          "inquisitive"
+        ],
+        [
+          "Ehehehe, little young I'd say, but I suppose we'll see in time.",
+          "Cheerful"
+        ],
+        [
+
+          "I'm <color=#CC18C9>Deidre Downton</color>- but you probably knew that. After all, my brewing prowess is unrivaled across all of Kastonia!",
+          "NONE"
+        ],
+        [
+          "But don't get too starstruck dearie- so long as you keep my lips wet, you and I will be square!",
+          "NONE"
+        ],
+        [
+          "By the way... I don't see your bartending certification hung up anywhere. That might prove to be an issue.",
+          "special"
+        ],
+        [
+          "Don't get me wrong- I'll still be ordering something. Just figured you might want to rectify that quickly, ehehehe~",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [ [ "both", "Deidre Downton", "Deidre can Help" ] ]
+    },
+
+    "Deidre can Help": {
+      "Name": "Deidre can Help",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Hmm? You're looking at me funny, dearie.",
+          "NONE"
+        ],
+        [
+          "Ehehe! Then again, you always look funny.",
+          "Cheerful"
+        ],
+        [
+          "You're concerned about the quake from earlier, hmm? Don't fret, why don't you let Auntie Deidre go figure it out?",
+          "NONE"
+        ],
+        [
+          "I'll be back tomorrow with everything you need to know. Just hand me that little quest contract and I'll be on my way... after you give me a little something to drink for the trouble.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": []
+    },
+
+    "Conversation1": {
+      "Name": "Conversation1",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Morning, dearie. Glad to see your bar starting to flourish with each passing day!",
+          "NONE"
+        ],
+        [
+          "Of course, you have a long way to go before you reach my level of success, hmm?",
+          "NONE"
+        ],
+        [
+          "Ehehehe... for future notice, the quicker you serve me a drink, the quicker I'll quit teasing you!",
+          "Cheerful"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+    "Day4College": {
+      "Name": "Day4College",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "I could've sworn that mousey little girl who just left bore a sigil of the <color=#01B117>College</color>. You aren't getting yourself into trouble now, are you dearie?",
+          "inquisitive"
+        ],
+        [
+          "I don't mean it to sound as if I'm speaking ill of the <color=#01B117>College</color>. It's just that earning political favor is a balance- and you'll want to know who's at the other end of that scale, ehehehe...",
+          "NONE"
+        ],
+        [
+          "But enough of that. I don't just come to flap my gums at you!",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Day4Corporeal": {
+      "Name": "Day4Corporeal",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Hmm? You want me to go on a quest? Again? Let me take a look.",
+          "inquisitive"
+        ],
+        [
+          ".......",
+          "NONE"
+        ],
+        [
+          "Sweetheart, do I look like a diplomat? I'd probably bite their ears off! Ehehehe~",
+          "special"
+        ],
+        [
+          "But Ol' Auntie Deidre has a few tricks up her really baggy sleeves.",
+          "NONE"
+        ],
+        [
+          "If you mix two ingredients of the same type, it'll give the guzzler a temporary perk.",
+          "NONE"
+        ],
+        [
+          "It may not be what they order, but they'll feel the effects of the drink regardless.",
+          "NONE"
+        ],
+        [
+          "For a quest requiring, ohhhh, socializing, add two <color=yellow>Skybursts</color> to the drink you give me.",
+          "NONE"
+        ],
+        [
+          "Experiment with drink combinations to give different buffs.",
+          "NONE"
+        ],
+        [
+          "Maybe you'll even find a patron's favorite drink!",
+          "NONE"
+        ],
+        [
+          "Hehe, the little things you learn while brewing.",
+          "Cheerful"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": []
+    },
+
+    "Day5CollegeRouteCorporeal": {
+      "Name": "Day5CollegeRouteCorporeal",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Well look at you! Playing a little game of politics between mice and men, hmm?",
+          "NONE"
+        ],
+        [
+          "Ehehehe, I'm only teasing dearie- don't get your feathers in a ruffle!",
+          "Cheerful"
+        ],
+        [
+          "...why is that journalist giving me a dirty look...?",
+          "inquisitive"
+        ],
+        [
+          "You do what you think is right my dear, and just remember that you can always lean on auntie Deidre for help!",
+          "NONE"
+        ],
+        [
+          "That is, so long as you remember our little agreement, hoo hoo...",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Day6Experiment-Ask": {
+      "Name": "Day6Experiment-Ask",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "I got a riddle for you, dearie... if you can wrap your little head around it.",
+          "NONE"
+        ],
+        [
+          "What's unstable, can be drunk, and now the people think is junk?",
+          "NONE"
+        ],
+        [
+          "My potions! Ech! Last night, a whole batch of them exploded for no reason!",
+          "special"
+        ],
+        [
+          "I haven't made a failed potion in years! What if I'd sold one to a patron? They could have blown up in my face!",
+          "NONE"
+        ],
+        [
+          "Then I'd have to go and clean their guts from my walls!",
+          "NONE"
+        ],
+        [
+          "Ech! Though I am in a terrible gut shortage at the moment... Ehehehe!",
+          "Cheerful"
+        ],
+        [
+          "Strange thing is, just the other day, a patron returned those SAME potions complaining they had no effect! Same ingredients, same recipe.",
+          "NONE"
+        ],
+        [
+          "The sooner they fix the <color=yellow>Spire</color>, the sooner I can go back to making safe potions.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Day6Relic": {
+      "Name": "Day6Relic",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Ech! Can't an old woman walk around without a chunk of stone crushing her?",
+          "NONE"
+        ],
+        [
+          "Another piece fell last night! Right by my shop!",
+          "special"
+        ],
+        [
+          "And, to make matters worse, there was a tin man running along with a glowing scepter by the Spire!",
+          "NONE"
+        ],
+        [
+          "I think the tin man had something to do with it. Him, and the little figure running beside him.",
+          "NONE"
+        ],
+        [
+          "You know what else I think? I think they were both heading here... to see YOU!",
+          "NONE"
+        ],
+        [
+          "So, Squirt. You want to know what I think about you?",
+          "NONE"
+        ],
+        [
+          "...",
+          "NONE"
+        ],
+        [
+          "You and me? We both enjoy being up to no good! Ehehehe~",
+          "Cheerful"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Day6Eyes": {
+      "Name": "Day6Eyes",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Squirt, what did you do last night?",
+          "inquisitive"
+        ],
+        [
+          "Strange people knocked on my door asking for you. They wanted to have a, ehehe, a 'nice little chat.'",
+          "NONE"
+        ],
+        [
+          "I don't know why they came to me. Maybe because I helped you deliver the piece of the Codex.",
+          "NONE"
+        ],
+        [
+          "See what you got me into, Squirt? These people weren't tin men or mousey scientists. They were... CLASSY!",
+          "NONE"
+        ],
+        [
+          "They said something about a new age and a fresh start and that, apparently, you're prying into it all.",
+          "NONE"
+        ],
+        [
+          "I told them they pried me out of my bed, and if they didn't leave soon, they'd never live past the current age.",
+          "Cheerful"
+        ],
+        [
+          "You should've been there to see them scurry off. Ehehehe~",
+          "NONE"
+        ],
+        [
+          "I just thought you should know. Don't get yourself into too much trouble now, dearie!",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Day6CollegeRouteCollege": {
+      "Name": "Day6CollegeRouteCollege",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Guards are in quite the hustle this morning. You wouldn't have had anything to do with that, would you, dearie?",
+          "inquisitive"
+        ],
+        [
+          "I should certainly hope not- it's not wise to make a foe out of the <color=#64B5F6>Corporeal</color>, ehehehe!",
+          "NONE"
+        ],
+        [
+          "But if you DID happen to do something foolish, don't fret, your Auntie Deidre's always here to make things better.",
+          "NONE"
+        ],
+        [
+          "All you need to do is ask...",
+          "NONE"
+        ],
+        [
+          "...and keep those drinks coming!",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+    "Day6CollegeRouteCorporeal": {
+      "Name": "Day6CollegeRouteCorporeal",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Goodness, those two sure left in a huff, didn't they? You aren't playing with fire again, are you dearie?",
+          "NONE"
+        ],
+        [
+          "The <color=#01B117>College</color> isn't on great terms with the Coproreal, especially since one of their own got snatched up last night!",
+          "NONE"
+        ],
+        [
+          "...how do I know that? Come now dearie, you should know by now that rumors scarcely pass me by... oohoohoo!",
+          "NONE"
+        ],
+        [
+          "I don't mean to brag, but I'm quite the formidable ally. *wink*",
+          "NONE"
+        ],
+        [
+          "...an ally who's feeling particularly parched right now!",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    }
+
+  },
+
+  "Artie": {
+
+    "Introduction": {
+      "Name": "Introduction",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": true,
+      "Stanzas": [
+        [
+          "What's up, barkeep? By the way, I should probably introduce myself- you'll be seeing a lot of me!",
+          "special"
+        ],
+        [
+          "Name's <color=#00FF7F>Artemis Cagosh</color>, but that's such a mouthful. You should just call me <color=#00FF7F>Artie</color>.",
+          "NONE"
+        ],
+        [
+          "And don't worry- this thing ain't for bashin' skulls- well, not yours, at least!",
+          "NONE"
+        ],
+        [
+          "It's mainly for gettin' rid of some of the more hefty chunks of rock down in the mines... heh, you know what I mean?",
+          "Cheerful"
+        ],
+        [
+          "Er, sorry- didn't mean to talk your ear off.",
+          "NONE"
+        ],
+        [
+          "What, you need me to pick something up from City Hall? Well sure, pal! A quick drink might be appreciated though.",
+          "inquisitive"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [ [ "both", "Artie", "AfterExplosion" ] ]
+    },
+
+    "AfterExplosion": {
+      "Name": "AfterExplosion",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Man, you won't believe the day I had, barkeep...",
+          "NONE"
+        ],
+        [
+          "Or, uh, maybe you will, dependin' on whether or not you felt that quake from here, heh.",
+          "NONE"
+        ],
+        [
+          "Point is, the mines've collapsed, and I'm outta work for a bit.",
+          "NONE"
+        ],
+        [
+          "Not really sure what to do in the meantime, but figure a drink might help me for a bit.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": []
+    },
+
+    "Artie Can Help": {
+      "Name": "Artie Can Help",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Say, barkeep? Without a job, I don't have much to do.",
+          "NONE"
+        ],
+        [
+          "If there's anything I can help you with, lemme know.",
+          "NONE"
+        ],
+        [
+          "I ain't good at much, but I got a muscle or two I can leverage.",
+          "NONE"
+        ],
+        [
+          "That is, so long as I'm hydrated, hah!",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Conversation1": {
+      "Name": "Conversation1",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Hey pal! Glad to see a friendly face, 'specially considerin' the recent events.",
+          "NONE"
+        ],
+        [
+          "Everyone's losin' their heads over this Spire thing, and I gotta tell you, I'm not quite sure what to make of it.",
+          "NONE"
+        ],
+        [
+          "I just wish there was a way to help more, y'know?",
+          "NONE"
+        ],
+        [
+          "Anyways, pass me a drink- gotta hankerin' for one of your brews!",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Day4Corporeal": {
+      "Name": "Day4Corporeal",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Heya Barkeep.",
+          "NONE"
+        ],
+        [
+          "People are asking what's goin' on, and, to be honest with ya, I am too.",
+          "NONE"
+        ],
+        [
+          "People want answers, and they want 'em now. And it ain't like the <color=#64B5F6>Corporeal</color> are being exactly transparent.",
+          "special"
+        ],
+        [
+          "But if ya ask me Barkeep, I don't think anyone knows what's goin' on, and we oughta just help each other through all this.",
+          "Cheerful"
+        ],
+        [
+          "I'm not the religious type or anything, but the <color=#64B5F6>Corporeal</color> are a wise bunch- about as wise as the <color=#01B117>College</color> is smart.",
+          "NONE"
+        ],
+        [
+          "Ohh! Sorry. Didn't mean to go on so long!",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Day5CollegeRouteCollege": {
+      "Name": "Day5CollegeRouteCollege",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Hey pal! Beautiful day, isn't it?",
+          "NONE"
+        ],
+        [
+          "I mean, I guess besides all the commotion goin' on in the center of town and whatnot. But hey, least the sun is out, hah!",
+          "NONE"
+        ],
+        [
+          "Kind of sets me in the mood to get outdoors and DO something, y'know? I'm not gettin' as active ever since the mines collapsed!",
+          "NONE"
+        ],
+        [
+          "But you pro'lly don't wanna hear me moanin' all day, now do ya?",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Day5CollegeRouteCorporeal": {
+      "Name": "Day5CollegeRouteCorporeal",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Hey pal! Beautiful day, isn't it?",
+          "NONE"
+        ],
+        [
+          "I mean, I guess besides all the commotion goin' on in the center of town and whatnot. But hey, least the sun is out, hah!",
+          "NONE"
+        ],
+        [
+          "Kind of sets me in the mood to get outdoors and DO something, y'know? I'm not gettin' as active ever since the mines collapsed!",
+          "NONE"
+        ],
+        [
+          "But you pro'lly don't wanna hear me moanin' all day, now do ya?",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Unemployment": {
+      "Name": "Unemployment",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Sorry, Barkeep. I'm not really in a talking mood now.",
+          "NONE"
+        ],
+        [
+          "Money's running shorter each day, and I'm not sure how much longer I can go.",
+          "special"
+        ],
+        [
+          "You'll have to put this one on my tab.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Day6ContractArtie": {
+      "Name": "Day6ContractArtie",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Hey, Barkeep! I don't- I don't know what to say.",
+          "NONE"
+        ],
+        [
+          "I guess just 'thanks for offering me a job!'",
+          "Cheerful"
+        ],
+        [
+          "I don't know how much of a help I'll be, but I'll do the best I can!",
+          "NONE"
+        ],
+        [
+          "Gimme a task, anything at all, and I'll be on my way!",
+          "inquisitive"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Day6GiveGift": {
+      "Name": "Day6GiveGift",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Hey, uh, Barkeep.",
+          "NONE"
+        ],
+        [
+          "I don't know how to say this, but, well, thanks. Thanks a bunch.",
+          "NONE"
+        ],
+        [
+          "I don't know why youd help me out like that. It ain't like I did anything for ya.",
+          "NONE"
+        ],
+        [
+          "But I'll tell you what! When I get on my feet, I'll be sure'n return the favor!",
+          "Cheerful"
+        ],
+        [
+          "Or, if ya got somethin' for me now, I'll be happy to help!",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    }
+  },
+
+  "Old Man Horace": {
+
+    "Introduction": {
+      "Name": "Introduction",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": true,
+      "Stanzas": [
+        [
+          "Greetings and salutations, friend!",
+          "Cheerful"
+        ],
+        [
+          "The name's <color=yellow>Horace R. Schuster</color> and, I assure you, the pleasure's all mine.",
+          "inquisitive"
+        ],
+        [
+          "This is such a quaint little pub you have here- much more modest than the ritzy establishments I'd frequent in my youth!",
+          "NONE"
+        ],
+        [
+          "Those places were so lifeless and ostentatious though, I much more greatly appreciate the modest decor you have here!",
+          "special"
+        ],
+        [
+          "But I shan't waste any more of your precious time, and will get straight to the point.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [ [ "both", "Old Man Horace", "AfterExplosion" ] ]
+    },
+
+    "AfterExplosion": {
+      "Name": "AfterExplosion",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "My goodness! Did you hear that?",
+          "inquisitive"
+        ],
+        [
+          "'Twas enough to ruin an old man's already poor hearing.",
+          "NONE"
+        ],
+        [
+          "Something that powerful must have impacted dozens of civilians. I'm fortunate to have been here, unaffected. And yet, I now have a responsibility to aid those who were.",
+          "NONE"
+        ],
+        [
+          "Friend, I have always dreamed of becoming an adventurer, but my family business prevented me from doing so. Perhaps this is a chance to change all that.",
+          "NONE"
+        ],
+        [
+          "If you hear of anything that suits my talents, please, allow me to help.",
+          "NONE"
+        ],
+        [
+          "In the meantime, I'd love to partake in another of your finest brews.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": []
+    },
+
+    "Horace Can Help": {
+      "Name": "Horace Can Help",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Greetings, friend! I've been told you could use a hand with relief efforts!",
+          "NONE"
+        ],
+        [
+          "Well, fortunately for you, I have, not one, but two hands right here!",
+          "Cheerful"
+        ],
+        [
+          "I may not have the strength of my youth, but I've found how to wield words over the years.",
+          "NONE"
+        ],
+        [
+          "Come now! First a drink, and then I'll be on my way.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Conversation1": {
+      "Name": "Conversation1",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Ah, there's my favorite bartender. Although it's not as if I frequent any other establishment, ho ho!",
+          "NONE"
+        ],
+        [
+          "Have you been hearing about the protests up in the Borough? I imagine the <color=#64B5F6>Corporeal</color> doesn't appreciate the civil unrest at their doorstep one bit!",
+          "NONE"
+        ],
+        [
+          "It makes an old man wish there was more he could do in times like this, to help the next generation.",
+          "NONE"
+        ],
+        [
+          "...it also tends to make me quite parched! Ho ho ho!",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Day4Corporeal": {
+      "Name": "Day4Corporeal",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Why, if it isn't my favorite bartender! Although it's not as if I frequent any other establishment, ha ha!",
+          "Cheerful"
+        ],
+        [
+          "My, my, are you well? Your thoughts seem a journey and a half away!",
+          "inquisitive"
+        ],
+        [
+          "Pah, the collapse of an old building, magical or not, ought not be cause for alarm.",
+          "NONE"
+        ],
+        [
+          "The people are in good hands between the <color=#64B5F6>Corporeal</color>'s aid and the <color=#01B117>College</color>'s research on the matter.",
+          "NONE"
+        ],
+        [
+          "I'm not one for gossip or debate, but I've heard that the <color=#01B117>College</color> and <color=#64B5F6>Corporeal</color> are bickering of late.",
+          "special"
+        ],
+        [
+          "It seems the <color=#64B5F6>Corporeal</color> are restricting particular magics from the <color=#01B117>College</color>, who claim it impedes their research.",
+          "NONE"
+        ],
+        [
+          "Nevertheless, those <color=#01B117>College</color> youngesters are smart, and I'm certain they'll get all the information they need before long!",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Day5CollegeRouteCollege": {
+      "Name": "Day5CollegeRouteCollege",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Morning, my friend! With each passing day, the community in this bar seems to grow. Although that small girl in the back seems a bit young to be drinking, does she not...?",
+          "NONE"
+        ],
+        [
+          "Bah, no matter! Surely you are an honorable barkeep, and wouldn't dare serve drinks to minors. I defer the judgement on the matter to you!",
+          "NONE"
+        ],
+        [
+          "That being said, might you be willing to prepare something for your old pal Horace?",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Day5CorporealRouteCorporeal": {
+      "Name": "Day5CorporealRouteCorporeal",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Ah! Yet another fine afternoon!",
+          "NONE"
+        ],
+        [
+          "Perhaps it would be finer if Artie was in better spirits, wouldn't you say?",
+          "NONE"
+        ],
+        [
+          "Perhaps I could help the lad! And, I'll bring some 'spirits' with me to to lift theirs as well. Ha ha!",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Day6CollegeRouteCollege": {
+      "Name": "Day6CollegeRouteCollege",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "My my, what's with all the hustle and bustle this morning?",
+          "NONE"
+        ],
+        [
+          "These whippersnappers aren't becoming a bellyache for you, are they? If so, I may just have to meet them at fisticuffs!",
+          "NONE"
+        ],
+        [
+          "Ho ho! I jest... although I do consider myself something of a wordsmith. If someone is in need of a stern talking to, point me in their direction.",
+          "NONE"
+        ],
+        [
+          "I won't have my favorite barkeep harassed over such paltry matters.",
+          "NONE"
+        ],
+        [
+          "Especially since you serve such... *ahem* ...delightful drinks...?",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+    "Day6CollegeRouteCorporeal": {
+      "Name": "Day6CollegeRouteCorporeal",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "My my, what's with all the hustle and bustle this morning?",
+          "NONE"
+        ],
+        [
+          "These whippersnappers aren't becoming a bellyache for you, are they? If so, I may just have to meet them at fisticuffs!",
+          "NONE"
+        ],
+        [
+          "Ho ho! I jest... although I do consider myself something of a wordsmith. If someone is in need of a stern talking to, point me in their direction.",
+          "NONE"
+        ],
+        [
+          "I won't have my favorite barkeep harassed over such paltry matters.",
+          "NONE"
+        ],
+        [
+          "Especially since you serve such... *ahem* ...delightful drinks...?",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    }
+  },
+
+  "Nell": {
+
+    "Day4Corporeal": {
+      "Name": "Day4Corporeal",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "So you're the altruistic bartender who helped the city guard and the <color=#64B5F6>Corporeal</color> last night.",
+          "NONE"
+        ],
+        [
+          "I assume you thought through your decision? The people aren't thrilled about it.",
+          "NONE"
+        ],
+        [
+          "See, I'm an investigative journalist. It's my job to expose the things others don't want exposed.",
+          "NONE"
+        ],
+        [
+          "I'd say your efforts held me back, but that might not be the case. Actually, you might have opened a door.",
+          "NONE"
+        ],
+        [
+          "Speaking of, someone you might find interesting just walked in. I'll take my drink, and be on my way.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Day4College": {
+      "Name": "Day4College",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "By the gods, have you heard the news? Violent protests at the town center? Suspected government cover-ups?",
+          "NONE"
+        ],
+        [
+          "This would make great headlines for tomorrow's paper! Perhaps a bit too sensational for my editor, however...",
+          "NONE"
+        ],
+        [
+          "Sorry, kind of rude for me not to introduce myself. I'm <color=#B71434>Nell</color>, an investigative journalist from the outer city.",
+          "NONE"
+        ],
+        [
+          "From what I've heard, your establishment is a good place to come for a good story! Keep me in mind, should you ever hear anything.",
+          "NONE"
+        ],
+        [
+          "Anyways, this gal could use a drink. All this excitement has me parched!",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Day5CollegeRouteCollege": {
+      "Name": "Day5CollegeRouteCollege",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "What's up, barkeep? Looks to me as if you've got a full house on your hands today!",
+          "NONE"
+        ],
+        [
+          "You wouldn't mind spilling your secrets, as to how you've gotten so popular, hmm? We could even make an interview out of it!",
+          "NONE"
+        ],
+        [
+          "Hah! I'm just kidding- there's so much going on as of late, I'm up to my beak in article ideas!",
+          "NONE"
+        ],
+        [
+          "Don't worry though- I still find you interesting. Why else would I keep coming back?",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Day5CorporealRouteCorporeal": {
+      "Name": "Day5CorporealRouteCorporeal",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "My, my. We're the <color=#64B5F6>Corporeal</color>'s favorite now, aren't we?",
+          "NONE"
+        ],
+        [
+          "It's no bother to me, but the <color=#01B117>College</color> might start whining.",
+          "NONE"
+        ],
+        [
+          "By the way, if they ever drop by, be sure to ask them about the Flux Experiment.",
+          "NONE"
+        ],
+        [
+          "I'm certain you'll be interested, and yours truly would like to know a little more about it.",
+          "NONE"
+        ],
+        [
+          "Until then, how about a drink and a lead?",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Day5CorporealRouteCollege": {
+      "Name": "Day5CorporealRouteCollege",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Well, well. It seems the <color=#01B117>College</color> is excited about their new discovery, aren't they? I wonder how they got that information?",
+          "NONE"
+        ],
+        [
+          "It's a good thing the <color=#64B5F6>Corporeal</color> are understanding. I've been shown forgiveness for many, should I say intrusions? on their privacy.",
+          "NONE"
+        ],
+        [
+          "Not that it'll change what I do.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Day6CollegeRouteCollege": {
+      "Name": "Day6CollegeRouteCollege",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "*furious scribbling*",
+          "NONE"
+        ],
+        [
+          "...oh, barkeep! Sorry, recent events have got me in a whirlwind of ideas for articles. Have you been following what's going on??",
+          "NONE"
+        ],
+        [
+          "...don't tell me you had a HAND in all this...?! Barkeep, you've GOTTA put me in. I need first-hand accounts of this!",
+          "NONE"
+        ],
+        [
+          "Promise me that if you hear anything else, you'll let me know. You promise, right?",
+          "NONE"
+        ],
+        [
+          "Oh, and a drink. But make it quick! I've got plenty more to write.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+    "Day6CollegeRouteCorporeal": {
+      "Name": "Day6CollegeRouteCorporeal",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "*furious scribbling*",
+          "NONE"
+        ],
+        [
+          "...oh, barkeep! Sorry, recent events have got me in a whirlwind of ideas for articles. Have you been following what's going on??",
+          "NONE"
+        ],
+        [
+          "...don't tell me you had a HAND in all this...?! Barkeep, you've GOTTA put me in. I need first-hand accounts of this!",
+          "NONE"
+        ],
+        [
+          "Promise me that if you hear anything else, you'll let me know. You promise, right?",
+          "NONE"
+        ],
+        [
+          "Oh, and a drink. But make it quick! I've got plenty more to write.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    }
+  },
+
+  "Mavis": {
+
+    "Shaken, not Deterred": {
+      "Name": "Shaken, not Deterred",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "...um, excuse me?",
+          "special"
+        ],
+        [
+          "I don't mean to, er, interrupt- I imagine you're probably busy! And believe me, I know what it's like to be busy.",
+          "NONE"
+        ],
+        [
+          "But, um... well, my name is <color=#D19F7E>Mavis</color>, and I represent the <color=#01B117>College of Magical Research and Recovery</color>, and, er... I was kind of hoping I could speak to you, regarding the recent protests at City Hall?",
+          "NONE"
+        ],
+        [
+          "It came to our attention (or more specifically, MY attention) that you were involved, to some degree, in helping out. Am I right?",
+          "NONE"
+        ],
+        [
+          "...",
+          "NONE"
+        ],
+        [
+          "U-um, ahem- I'm just going to make the safe assumption that I am. In which case, we at the <color=#01B117>College</color> would like to thank you for your assistance!",
+          "Cheerful"
+        ],
+        [
+          "We may not have been able to glean much information from the <color=#64B5F6>Corporeal</color>, but they're certainly starting to feel the heat.",
+          "NONE"
+        ],
+        [
+          "As you may (or may not) know, the <color=#64B5F6>Corporeal</color> has been more or less in charge of maintaining the <color=yellow>Spire</color>, and kept their activities secretive for 'the good of humanity'.",
+          "inquisitive"
+        ],
+        [
+          "We at the <color=#01B117>College</color> find this to be hogwash, especially in light of recent events. Ever since the <color=yellow>Spire</color> fractured, they've been oddly quiet, holding private meetings at City Hall.",
+          "NONE"
+        ],
+        [
+          "Now, er, bear in mind that what I'm about to ask of you isn't exactly... 'legal'. But hey, you seem like the kind of person that holds truth to a greater standard than law!",
+          "NONE"
+        ],
+        [
+          "The City Council will be holding a series of meetings this week, presumably to be advised by the <color=#64B5F6>Corporeal</color> on what to do about the <color=yellow>Spire</color>.",
+          "NONE"
+        ],
+        [
+          "What I need YOU to do (please please please) is to have someone break- er, SNEAK into City Hall one evening, and listen in.",
+          "NONE"
+        ],
+        [
+          "Then, just report back to me, and we'll take it from there!",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": []
+    },
+
+    "Day5CollegeRouteCollege": {
+      "Name": "Day5CollegeRouteCollege",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Hey! I haven't heard much in the way of what happened last night, so I'm hoping everything went well?",
+          "NONE"
+        ],
+        [
+          "...o-oh, is that a report of what happened? Quick, hand it here!",
+          "NONE"
+        ],
+        [
+          "Um... please pardon my hastiness. Time just happens to be of the essence.",
+          "NONE"
+        ],
+        [
+          "...fantastic! I'm just going to go look over this in the back, I'll return once I've read through the entire thing.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Playing Politics": {
+      "Name": "Playing Politics",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "...finished!",
+          "NONE"
+        ],
+        [
+          "...what, are you surprised at how fast I zipped through that? You should see the tomes I have to scroll through at work. *sigh*",
+          "NONE"
+        ],
+        [
+          "But that's enough about my workload. What your, er, 'correspondent' stumbled upon appears to be in line with our fears.",
+          "NONE"
+        ],
+        [
+          "That is to say: the <color=yellow>Spire</color> is crumbling.",
+          "NONE"
+        ],
+        [
+          "This is troubling, to say the least. Although I'm sure that goes without saying. For the past three and a half centuries, the <color=yellow>Spire</color> has granted us with magical prowess.",
+          "NONE"
+        ],
+        [
+          "Its raw power has kept the creatures of the forests at bay, fostering an excellent environment for Kastonia to grow and thrive.",
+          "NONE"
+        ],
+        [
+          "The <color=#64B5F6>Corporeal</color>, of course, was founded as a means to protect the <color=yellow>Spire</color> from any harm. To 'stay the hand of man's greed' as they say.",
+          "NONE"
+        ],
+        [
+          "But their unwarranted protection comes at a price- nobody except for representatives from the <color=#64B5F6>Corporeal</color> are allowed anywhere near the <color=yellow>Spire</color>.",
+          "NONE"
+        ],
+        [
+          "Information about our city's sentinel is scarce to come by, and I should know. I've scoured every library in the city!",
+          "NONE"
+        ],
+        [
+          "And so it comes to this: we need someone to aid the <color=#01B117>College</color> in our attempts for transparency. I need you to send someone to the <color=yellow>Spire</color>, and bring me back a chunk of the broken shard.",
+          "NONE"
+        ],
+        [
+          "I'll leave your methods up to your discretion, but just know that your efforts will be forever appreciated by the <color=#01B117>College</color>.",
+          "NONE"
+        ],
+        [
+          "Let me know when this task is finished, barkeep. I'll be waiting!",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "A Lack of Info": {
+      "Name": "A Lack of Info",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "...um, excuse me?",
+          "inquisitive"
+        ],
+        [
+          "I'm <color=#D19F7E>Mavis</color>. I represent the <color=#01B117>College of Magical Research and Recovery</color>.",
+          "NONE"
+        ],
+        [
+          "We received your package yesterday, and our researchers were (well, actually I was) able to translate it.",
+          "NONE"
+        ],
+        [
+          "If we're correct, and we normally are, then the <color=yellow>Spire</color> isn't its own source of magic; it somehow gets its magic from somewhere else.",
+          "NONE"
+        ],
+        [
+          "The issue is that our readings of the <color=yellow>Spire</color> vary dramatically, so it's hard to gather any good data.",
+          "NONE"
+        ],
+        [
+          "We could set up an experiment with a device we purchased from the <color=orange>Artificer's Alliance</color>, but, well, we'd need to be near the <color=yellow>Spire</color> for it to work.",
+          "special"
+        ],
+        [
+          "And, uh, the <color=#64B5F6>Corporeal</color> wouldn't be happy to see us tinkering around there.",
+          "NONE"
+        ],
+        [
+          "I even considered scheduling an information exchange between the <color=#01B117>College</color> and <color=#64B5F6>Corporeal</color> leaders, but that would take weeks to set up with our current relations.",
+          "NONE"
+        ],
+        [
+          "Um, of course, you seem to know a few people that are in good standing with them.",
+          "NONE"
+        ],
+        [
+          "*ahem*",
+          "NONE"
+        ],
+        [
+          "Sorry for taking you away from your work. I'll get something to go, and let you get back to it.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "The Path Before": {
+      "Name": "The Path Before - Experiment",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "So, um, the results are back from the experiment already.",
+          "NONE"
+        ],
+        [
+          "Surprised? You should see the stack of papers they give me each day.",
+          "Cheerful"
+        ],
+        [
+          "We analyzed the measurements from the Flux device, and we found that the magic in the <color=yellow>Spire</color>... well, it isn't exactly fading.",
+          "NONE"
+        ],
+        [
+          "It's growing.",
+          "NONE"
+        ],
+        [
+          "The amplitude of the waves is steadily increasing, meaning that the magical power transmitted from the <color=yellow>Spire</color> fluctuates more and more.",
+          "NONE"
+        ],
+        [
+          "One day, we might get enough magic to power Kastonia for weeks. The next, we might get nothing at all.",
+          "NONE"
+        ],
+        [
+          "We need to study this more. The <color=yellow>Spire</color> might be collapsing because it's bursting with energy, not because it's actually falling apart.",
+          "NONE"
+        ],
+        [
+          "Our only problem is that we still can't get into the <color=yellow>Spire</color> without the city's approval (why is there always paperwork?).",
+          "special"
+        ],
+        [
+          "So, er, if there's anything you can say or do to, uh, persuade the leaders- to let the <color=#01B117>College</color> have control over the <color=yellow>Spire</color>- that would help... a lot.",
+          "NONE"
+        ],
+        [
+          "*ahem*",
+          "NONE"
+        ],
+        [
+          "Sorry for taking you away from your work. I'll get something to go, and let you get back to it.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Your Better Judgement": {
+      "Name": "The Path Before - Ask",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "...um, hello again.",
+          "NONE"
+        ],
+        [
+          "Thank you for gathering what information you could from the <color=#64B5F6>Corporeal</color>, but, uh, it wasn't... well, it wasn't much to go off of.",
+          "special"
+        ],
+        [
+          "I just saw one of the <color=#64B5F6>Corporeal</color> members walk out of here. Did he- did he say something to you? Something we don't know?",
+          "NONE"
+        ],
+        [
+          "Because if he did, telling us would only, er, speed up our research (and maybe I'll have time to go home early)",
+          "NONE"
+        ],
+        [
+          "We're incredibly close to figuring out what's wrong. If we just had a little more jurisdiction, we might be able to fix the problem before it becomes worse!",
+          "NONE"
+        ],
+        [
+          "My itinerary says there's another town hall meeting tonight. If you have anything important to share, it would be a, ah, convenient time to do so.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "The Path Ahead": {
+      "Name": "The Path Before - Eyes/Relic",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "...um, excuse me?",
+          "NONE"
+        ],
+        [
+          "I don't mean to, er, interrupt- I imagine you're probably busy! And believe me, I know what it's like to be busy.",
+          "NONE"
+        ],
+        [
+          "But, um... well, I represent the <color=#01B117>College of Magical Research and Recovery</color>, and, er... I was kind of hoping I could speak to you, regarding your work with the <color=#64B5F6>Corporeal</color>.",
+          "NONE"
+        ],
+        [
+          "It's not that we think you're trying to prevent our research or anything!",
+          "inquisitive"
+        ],
+        [
+          "But, uh... we're afraid that somebody as influential as you might, er, unintentionally stall our progress.",
+          "NONE"
+        ],
+        [
+          "We have a lot of theories that could be proven if we could just get into the <color=yellow>Spire</color>, but the <color=#64B5F6>Corporeal</color> retains full control of it.",
+          "NONE"
+        ],
+        [
+          "If you know of anything that might sway the public in our favor, we might be able to persuade Kastonia's leaders to let us research there.",
+          "NONE"
+        ],
+        [
+          "Um, here, take my business card. You can contact me any time (hopefully not soon. I have way too much to do). I'm <color=#D19F7E>Mavis</color>, by the way.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Day6CollegeStrong": {
+      "Name": "Day6CollegeStrong",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "*huff* *huff* ...g-good morning, barkeep! I ran over as soon as I could... I hope you have good news for me?",
+          "NONE"
+        ],
+        [
+          "...Oh my goodness... That's a genuine fragment of the <color=yellow>Spire</color> you have there, isn't it?! I can't believe you actually pulled it off!",
+          "NONE"
+        ],
+        [
+          "I-I don't mean to insinuate that I find you incapable... it's just, this is an impressive feat for a barkeep!",
+          "NONE"
+        ],
+        [
+          "(That didn't come off any better, did it?)",
+          "NONE"
+        ],
+        [
+          "*ahem* Um, a-anyways, I'm appreciative that you were able to acquire this for me- do you mind if I ask how you managed to do so...?",
+          "NONE"
+        ],
+        [
+          "...You had them do WHAT? Ooh dear... if it's all the same with you, I think I might withhold that particular detail when giving the <color=#01B117>College</color> my report.",
+          "NONE"
+        ],
+        [
+          "I don't quite think my superiors would enjoy knowing that they inadvertently assaulted a <color=#64B5F6>Corporeal</color> member, heh...",
+          "NONE"
+        ],
+        [
+          "Regardless, I'm going to have this taken back to be studied. Time is of the essence in this matter, however.",
+          "NONE"
+        ],
+        [
+          "An extra pair of hands would be greatly appreciated, if you find someone willing to help!",
+          "NONE"
+        ],
+        [
+          "Anyways, that's it for me. Maybe a quick drink to keep my energy up?",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Day6CollegeSneak": {
+      "Name": "Day6CollegeSneak",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "*huff* *huff* ...g-good morning, barkeep! I ran over as soon as I could... I hope you have good news for me?",
+          "NONE"
+        ],
+        [
+          "...Oh my goodness... That's a genuine fragment of the <color=yellow>Spire</color> you have there, isn't it?! I can't believe you actually pulled it off!",
+          "NONE"
+        ],
+        [
+          "I-I don't mean to insinuate that I find you incapable... it's just, this is an impressive feat for a barkeep!",
+          "NONE"
+        ],
+        [
+          "(That didn't come off any better, did it?)",
+          "NONE"
+        ],
+        [
+          "*ahem* Um, a-anyways, I'm appreciative that you were able to acquire this for me- do you mind if I ask how you managed to do so...?",
+          "NONE"
+        ],
+        [
+          "...like, the WHOLE fence? How'd they manage to make their way up there, much less without being caught?!",
+          "NONE"
+        ],
+        [
+          "Goodness, that's an incredible tale! I sure hope your patron didn't hurt themselves getting down!",
+          "NONE"
+        ],
+        [
+          "Regardless, I'm going to have this taken back to be studied. Time is of the essence in this matter, however.",
+          "NONE"
+        ],
+        [
+          "An extra pair of hands would be greatly appreciated, if you find someone willing to help!",
+          "NONE"
+        ],
+        [
+          "Anyways, that's it for me. Maybe a quick drink to keep my energy up?",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Day7CorporealSidedWithCorporeal": {
+      "Name": "Day7CorporealSidedWithCorporeal",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Um...",
+          "NONE"
+        ],
+        [
+          "Hello, I...",
+          "NONE"
+        ],
+        [
+          "I-I have a lot more paperwork to do now.",
+          "NONE"
+        ],
+        [
+          "The government is set on giving the <color=#64B5F6>Corporeal</color> full control over the <color=yellow>Spire</color>.",
+          "NONE"
+        ],
+        [
+          "I'm trying to find a way in, but there aren't many options left for us at the <color=#01B117>College</color>.",
+          "NONE"
+        ],
+        [
+          "To make matters worse, I've combined data gathered from the <color=yellow>Spire</color> with what knowledge we've gained from the <color=#64B5F6>Corporeal</color>.",
+          "NONE"
+        ],
+        [
+          "By my estimation, the <color=yellow>Spire</color> will grow so unstable that it will either crumble or explode. Either way, you won't want to be anywhere near here when that happens.",
+          "NONE"
+        ],
+        [
+          "The truth is, we don't have long.",
+          "NONE"
+        ],
+        [
+          "If I'm correct, and I usually am, then we have roughly...",
+          "NONE"
+        ],
+        [
+          "Eight days.",
+          "NONE"
+        ],
+        [
+          "Eight days until the city is leveled.",
+          "NONE"
+        ],
+        [
+          "Hmph.",
+          "NONE"
+        ],
+        [
+          "If I'm not allowed near that <color=yellow>Spire</color> until I have the proper certification, I'll be finished with that paperwork before you can bat an eye.",
+          "NONE"
+        ],
+        [
+          "If I have one superior talent, it's getting things done quickly. Watch. I'll be there alongside the <color=#64B5F6>Corporeal</color> before you thought it was possible.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Between Two Barstools": {
+      "Name": "Between Two Barstools",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "...",
+          "NONE"
+        ],
+        [
+          ".......",
+          "NONE"
+        ],
+        [
+          "I... I don't know what to say.",
+          "NONE"
+        ],
+        [
+          "I'm not wrong in assuming that it was you who tipped off the <color=#64B5F6>Corporeal</color>, am I?",
+          "NONE"
+        ],
+        [
+          "Just... just so TYPICAL. Ugh, I should've KNOWN not to trust...",
+          "NONE"
+        ],
+        [
+          "...*sigh* I'm... I'm sorry. I've just been overworked is all.",
+          "NONE"
+        ],
+        [
+          "I'm... upset, but I understand. I can't just expect you to trust someone who asked you to go behind the back of the <color=#64B5F6>Corporeal</color>.",
+          "NONE"
+        ],
+        [
+          "But hey, I'm willing to give you another chance. A chance to side on the right side of history.",
+          "NONE"
+        ],
+        [
+          "That woman that was captured last night? She was a beloved member of the <color=#01B117>College</color>- someone that we can't afford to lose to the prisons.",
+          "NONE"
+        ],
+        [
+          "There will be a trial tonight, after which, I assume she'll probably be shipped off to Bleakmaw Prison for treason.",
+          "NONE"
+        ],
+        [
+          "This cannot happen.",
+          "NONE"
+        ],
+        [
+          "Please... if you still believe in doing the right thing, help us. Break her out before the trial.",
+          "NONE"
+        ],
+        [
+          "I'm counting on you, barkeep.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": []
+    },
+
+    "Day7CorporealSidedWithCollege": {
+      "Name": "Day7CorporealSidedWithCollege",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Hey!",
+          "NONE"
+        ],
+        [
+          "Um, I have good news and bad news.",
+          "special"
+        ],
+        [
+          "Good news! Thanks to you, we have complete access to the <color=yellow>Spire</color>!",
+          "Cheerful"
+        ],
+        [
+          "Bad news...",
+          "inquisitive"
+        ],
+        [
+          "I was able to collect enough data to find a trend in the fluctuations.",
+          "NONE"
+        ],
+        [
+          "If I'm correct, and I usually am, the <color=yellow>Spire</color> will grow so unstable that it will either crumble or explode.",
+          "NONE"
+        ],
+        [
+          "Either way, you won't want to be anywhere near here when that happens.",
+          "NONE"
+        ],
+        [
+          "And, according to the numbers, we only have...",
+          "NONE"
+        ],
+        [
+          "Eight days.",
+          "NONE"
+        ],
+        [
+          "Eight days until the <color=yellow>Spire</color> destroys the city.",
+          "NONE"
+        ],
+        [
+          "We have so much to research, and we barely understand how the <color=yellow>Spire</color> even works!",
+          "NONE"
+        ],
+        [
+          "We'll need to know where the <color=yellow>Spire</color> gets its magic from, what's causing the fluctuations, explore the <color=yellow>Spire</color> itself...",
+          "NONE"
+        ],
+        [
+          "I need to whip up a plan. Until then, sit tight! We have a lot to do in just, um, eight days.",
+          "NONE"
+        ],
+        [
+          "(Breathe, Mavis, you can do this. You have help now.)",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Day7SupportCollege": {
+      "Name": "Day7SupportCollege",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+
+        [
+          "Thank you, THANK YOU barkeep! I-I don't mean to be too rowdy, but realize that this was a huge help for the College.",
+          "NONE"
+        ],
+        [
+          "What we've learned from the fragment has confirmed our fears- fears that the Corporeal continues to remain silent on.",
+          "NONE"
+        ],
+        [
+          "The Corporeal may wish to oppress our access to knowledge, but these days are limited. We'll seize back our rights soon!",
+          "NONE"
+        ],
+        [
+          "H-HUZZAH!",
+          "NONE"
+        ],
+        [
+          "...ugh, that was embarrassing.",
+          "NONE"
+        ],
+        [
+          "A-anyways... I thank you barkeep. You've been such an instrumental ally in our quest for justice.",
+          "NONE"
+        ],
+        [
+          "I have to get back to the College now, but I promise we'll be in touch soon.",
+          "NONE"
+        ],
+        [
+          "The fight against the Corporeal begins now.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Day7AidCollege": {
+      "Name": "Day7AidCollege",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "...she's safe.",
+          "NONE"
+        ],
+        [
+          "Thank you, THANK YOU barkeep! I-I don't mean to be too rowdy, but realize that this was a huge help for the College.",
+          "NONE"
+        ],
+        [
+          "And I just KNEW that you'd make the right choice in the end. You're one of the good ones.",
+          "NONE"
+        ],
+        [
+          "The Corporeal may wish to oppress our access to knowledge, but these days are limited. We'll seize back our rights soon!",
+          "NONE"
+        ],
+        [
+          "H-HUZZAH!",
+          "NONE"
+        ],
+        [
+          "...ugh, that was embarrassing.",
+          "NONE"
+        ],
+        [
+          "A-anyways... I thank you barkeep. You've been such an instrumental ally in our quest for justice.",
+          "NONE"
+        ],
+        [
+          "I have to get back to the College now, but I promise we'll be in touch soon.",
+          "NONE"
+        ],
+        [
+          "The fight against the Corporeal begins now.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    }
+
+
+  },
+
+  "Gaius": {
+
+    "PositiveIntroduction": {
+      "Name": "PositiveIntroduction",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "...",
+          "inquisitive"
+        ],
+        [
+          ".......",
+          "NONE"
+        ],
+        [
+          "Bartender.",
+          "special"
+        ],
+        [
+          "I greet you in the name of the <color=yellow>Pantheon</color> and their servants, the <color=#64B5F6>Corporeal</color>.",
+          "NONE"
+        ],
+        [
+          "I am <color=#5A9399>Gaius</color>, the <color=#64B5F6>Corporeal's</color> former flag-bearer and current liaison.",
+          "NONE"
+        ],
+        [
+          "I have come for two reasons. First, to thank you for maintaining order yesterday. Second, to ask of you something else.",
+          "NONE"
+        ],
+        [
+          "As you may know, the <color=yellow>Spire</color> is the source of magic for Kastonia.",
+          "NONE"
+        ],
+        [
+          "Our order has warned against using it for millennia, since magic is reserved for the <color=yellow>Pantheon</color> alone.",
+          "NONE"
+        ],
+        [
+          "But, few would listen.",
+          "NONE"
+        ],
+        [
+          "Now that the <color=yellow>Spire</color> is unstable, the use of magic grows more threatening.",
+          "special"
+        ],
+        [
+          "Please help us prevent the further use of magic, to preserve the <color=yellow>Spire</color>. We wish to trust you in this matter.",
+          "NONE"
+        ],
+        [
+          "Once I empty that stein, I shall give to you a scroll containing a sacred text from the <color=yellow>Codex</color>.",
+          "NONE"
+        ],
+        [
+          "Do with it what you will, but know that the stars are ever watchful.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": []
+    },
+
+    "A Matter of Magic": {
+      "Name": "A Matter of Magic",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "I have returned with the scroll, as promised.",
+          "NONE"
+        ],
+        [
+          "I trust the divines will grant the wisdom you need.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Honor Before Glory": {
+      "Name": "Honor Before Glory",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "...",
+          "NONE"
+        ],
+        [
+          "Barkeep. It was you who provided aid to the recent protests, was it not?",
+          "NONE"
+        ],
+        [
+          "Please, don't try to deny it. I'm not here to scold you. In fact, quite the opposite, really.",
+          "NONE"
+        ],
+        [
+          "My name is <color=#5A9399>Gaius</color>, and I am sworn to the <color=#64B5F6>Corporeal</color>- Kastonia's venerable defender.",
+          "NONE"
+        ],
+        [
+          "Whereas many of my peers see your act of rebellion as heresy, I see something else: a potential ally of impressive influence.",
+          "NONE"
+        ],
+        [
+          "This belief is strengthened by the fact that you trusted your better judgement, and told us about the <color=#01B117>College</color>'s schemes.",
+          "NONE"
+        ],
+        [
+          "Sure, you may have broken a law or two by slinking past our guards, but this does not discredit your sense of justice!",
+          "NONE"
+        ],
+        [
+          "I'll do what I can to ease the minds of my older colleagues in the matter, and perhaps, in return, you could provide some much-needed assistance?",
+          "NONE"
+        ],
+        [
+          "I've heard whispers that the <color=#01B117>College</color> plans to break into the <color=yellow>Spire</color> tonight- presumably to steal a fragment of the shard that broke off.",
+          "NONE"
+        ],
+        [
+          "Unfortunately, we don't know where they'll strike... and bear in mind, the <color=yellow>Spire</color> has a breathtaking circumference. We can't guard it all by ourselves.",
+          "NONE"
+        ],
+        [
+          "If you could hire one of your patrons to assist us, I can't promise that my superiors would be eternally grateful... but I would be.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Forbidden Actions": {
+      "Name": "Forbidden Actions",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Greetings to you, Barkeep. We are fortunate you stand by us.",
+          "Cheerful"
+        ],
+        [
+          "We were concerned your influence might disturb the path laid before our order, but it is clear we can trust you.",
+          "NONE"
+        ],
+        [
+          "I will be honest with you, Barkeep. The people look to Kastonia's leadership for answers. The leaders, in turn, look to us.",
+          "NONE"
+        ],
+        [
+          "But, we have none.",
+          "special"
+        ],
+        [
+          "The <color=yellow>Spire</color>'s collapse is a mystery, one foretold in the ancient texts I gave you, but no reason or cure was ever prescribed.",
+          "NONE"
+        ],
+        [
+          "I'm afraid that our last option requires gathering information from another faction, one we have fought for centuries, called the <color=#B70000>Eyes</color>.",
+          "NONE"
+        ],
+        [
+          "I personally wish to avoid them at all costs and have considered another option, one the <color=#64B5F6>Corporeal</color> would not favor.",
+          "NONE"
+        ],
+        [
+          "There is a relic that charges around magical entities.",
+          "NONE"
+        ],
+        [
+          "I can stand watch over the <color=yellow>Spire</color> tonight, give the relic to your friend, and gather more information on the <color=yellow>Spire</color>.",
+          "NONE"
+        ],
+        [
+          "I leave the choice to you, as you are the one with the resources to act.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": []
+    },
+
+    "Day6CorporealRouteCollege-Experiment": {
+      "Name": "Day6CorporealRouteCollege-Experiment",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Barkeep.",
+          "special"
+        ],
+        [
+          "It seems the <color=#01B117>College</color> has made a recent discovery.",
+          "NONE"
+        ],
+        [
+          "I would ask how they could obtained such knowledge so quickly, but I believe we already know the answer to that question.",
+          "NONE"
+        ],
+        [
+          "Truly, I am glad they have made progress. This is a catastrophe we must work through together.",
+          "NONE"
+        ],
+        [
+          "But, last night, there was another magical imbalance, and I suspect it is a result of your actions.",
+          "special"
+        ],
+        [
+          "You must see that, as magic becomes more unstable, the use of a simple, magical flame might engulf the city. Or, a spell to restore a person to health may have no effect at all.",
+          "NONE"
+        ],
+        [
+          "Those who use magic must be wary. The <color=#01B117>College</color> understands that certain magics must be kept from the common person, but when it comes to their own boundaries...",
+          "NONE"
+        ],
+        [
+          "...they have none.",
+          "NONE"
+        ],
+        [
+          "There are other ways to solve this crisis. You must have faith that, together, we can solve this using the path laid before us.",
+          "inquisitive"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": []
+    },
+
+    "Day6CorporealRouteCollege-Ask": {
+      "Name": "Day6CorporealRouteCollege-Ask",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Barkeep.",
+          "NONE"
+        ],
+        [
+          "I am pleased that we can work together once more.",
+          "Cheerful"
+        ],
+        [
+          "Your friend came to us, seeking information about our ways. I have come to tell you more.",
+          "NONE"
+        ],
+        [
+          "In light of recent events, I was chosen to seek help from the <color=yellow>Seven Stones</color>.",
+          "NONE"
+        ],
+        [
+          "They said, 'In a pool of water, a ripple can only peak as high as its troughs fall. So, too, does the <color=yellow>Spire</color>'s strength.'",
+          "NONE"
+        ],
+        [
+          "Barkeep, the <color=yellow>Spire</color>'s magic isn't fading...",
+          "NONE"
+        ],
+        [
+          "It's growing.",
+          "NONE"
+        ],
+        [
+          "But, not steadily. It is fluctuating chaotically- rising and falling in strength, more like a tital wave than a ripple.",
+          "NONE"
+        ],
+        [
+          "As it does, the result of magic becomes unpredictable, its use, more dangerous. Imagine a tiny flame engulfing the city, or a life-saving spell having no effect.",
+          "NONE"
+        ],
+        [
+          "I understand your favor with the <color=#01B117>College</color>, but using magic to discover what's wrong with magic is reckless, despite the caster's intelligence.",
+          "NONE"
+        ],
+        [
+          "I trust you will use your better judgement in times such as these.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": []
+    },
+
+    "Day6CorporealRouteCollege-Eyes": {
+      "Name": "Day6CorporealRouteCollege-Eyes",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Barkeep.",
+          "NONE"
+        ],
+        [
+          "Your friend did well last night. It appears the <color=#B70000>Eyes</color> know things we do not.",
+          "Cheerful"
+        ],
+        [
+          "They seem to be harnessing magic from the <color=yellow>Spire</color>, no doubt to resurrect their elder god, the <color=red>Titan</color>.",
+          "NONE"
+        ],
+        [
+          "The <color=red>Titan</color>, however, cannot be resurrected by simple magic. No, it can only be revived with Chaos.",
+          "NONE"
+        ],
+        [
+          "If they've been harnessing this power, then the <color=yellow>Spire</color>'s magic isn't fading...",
+          "NONE"
+        ],
+        [
+          "It's growing.",
+          "NONE"
+        ],
+        [
+          "But, not steadily. It is fluctuating chaotically- rising and falling in strength.",
+          "NONE"
+        ],
+        [
+          "As it does, the result of magic becomes unpredictable, its use, more dangerous. Imagine a tiny flame engulfing the city, or a life-saving spell having no effect.",
+          "NONE"
+        ],
+        [
+          "Those who use magic must be wary. The <color=#01B117>College</color> understands that certain magics must be kept from the common person, but when it comes to their own boundaries...",
+          "special"
+        ],
+        [
+          "...they have none.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": []
+    },
+
+    "Day6CorporealRouteCollege-Relic": {
+      "Name": "Day6CorporealRouteCollege-Eyes",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Barkeep.",
+          "NONE"
+        ],
+        [
+          "Our disovery last night was... eye-opening... to say the least.",
+          "inquisitive"
+        ],
+        [
+          "The relic didn't strengthen or weaken within the <color=yellow>Spire</color>",
+          "NONE"
+        ],
+        [
+          "It pulsed.",
+          "NONE"
+        ],
+        [
+          "Over time, the pulses grew, its peaks growing stronger, its depths growing weaker.",
+          "NONE"
+        ],
+        [
+          "It is like a pool of water, whose waves grow in size as its troughs fall deeper.",
+          "NONE"
+        ],
+        [
+          "I fear, as well, that our search was not unnoticed. As a result, I have heard false whispers that the <color=#64B5F6>Corporeal</color> are divided.",
+          "NONE"
+        ],
+        [
+          "Perhaps it would be better to keep the details of our search quiet.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": []
+    },
+
+    "Day6CorporealStrong": {
+      "Name": "Day6CorporealStrong",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Barkeep.",
+          "NONE"
+        ],
+        [
+          "Your actions last night may seem trivial to you, but let me assure you that your efforts will not go unnoticed.",
+          "NONE"
+        ],
+        [
+          "Now that we are no longer strained between politics and guarding the <color=yellow>Spire</color>, we can focus on what truly matters: solving the <color=yellow>Spire</color>'s collapse.",
+          "NONE"
+        ],
+        [
+          "A trial will be held for her this evening, in which we will publicly denounce the College and their schemes.",
+          "NONE"
+        ],
+        [
+          "There is much to learn of the <color=yellow>Spire</color>'s history, and we must learn it quickly- within eight days time if I overheard your conversation accurately.",
+          "NONE"
+        ],
+        [
+          "We must seek aid from our ancestors, the stars, ancient ruins, and the <color=yellow>Spire</color> itself.",
+          "NONE"
+        ],
+        [
+          "We will work closely in the days to come. I pray we can work the others as well.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Day6CorporealSmart": {
+      "Name": "Day6CorporealSmart",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Barkeep.",
+          "NONE"
+        ],
+        [
+          "Your actions last night may seem trivial to you, but let me assure you that your efforts will not go unnoticed.",
+          "NONE"
+        ],
+        [
+          "We managed to capture the thief who sought to put our city's security at risk, and it's all thanks to you.",
+          "NONE"
+        ],
+        [
+          "A trial will be held for her this evening, in which we will publicly denounce the College and their schemes.",
+          "NONE"
+        ],
+        [
+          "I know that asking more from you is unfair, but these are dire times, I'm afraid. We at the Corporeal would appreciate your testimony in the matter",
+          "NONE"
+        ],
+        [
+          "We must seek aid from our ancestors, the stars, ancient ruins, and the Spire itself.",
+          "NONE"
+        ],
+        [
+          "We will work closely in the days to come. I pray we can work the others as well.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Between Two Barstools": {
+      "Name": "Between Two Barstools",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "...",
+          "NONE"
+        ],
+        [
+          "Barkeep.",
+          "NONE"
+        ],
+        [
+          "I am <color=#5A9399>Gaius</color>, knight of the <color=#64B5F6>Corporeal</color>. I believe we need to speak.",
+          "NONE"
+        ],
+        [
+          "Your actions last night have put us in a difficult spot. It is our duty to remain a stalwart defender of the <color=yellow>Spire</color>, and as of last night, we've failed in our task.",
+          "NONE"
+        ],
+        [
+          "One of your acquaintances made off with a fragment of the <color=yellow>Spire</color>, despite our best efforts at defense.",
+          "NONE"
+        ],
+        [
+          "Let me be clear- the only reason you're not in chains right now is because I have yet to relay this information to my superiors.",
+          "NONE"
+        ],
+        [
+          "And my negligence in this matter is not due to pity, nor is it due to a change of faith.",
+          "NONE"
+        ],
+        [
+          "I believe that people deserve the chance to prove themselves, and, if anything, all you stand guilty of is being misinformed.",
+          "NONE"
+        ],
+        [
+          "The <color=#01B117>College</color> means to make information about the <color=yellow>Spire</color> public- information that we cannot allow to fall into the hands of the wrong people.",
+          "NONE"
+        ],
+        [
+          "For this reason, I need your help. Please send one of your connections to stop them, by any means necessary.",
+          "NONE"
+        ],
+        [
+          "If this information about the <color=yellow>Spire</color> becomes publicized, then Kastonia- and perhaps, the world- is doomed.",
+          "NONE"
+        ],
+        [
+          "I will leave you to dwell on this now. I do hope that you make the right decision- your patrons' lives may very well depend on it.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": []
+    },
+
+    "Day7CorporealSidedWithCorporeal": {
+      "Name": "Day7CorporealSidedWithCorporeal",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Barkeep.",
+          "NONE"
+        ],
+        [
+          "We cannot thank you enough for your influence on the city council.",
+          "Cheerful"
+        ],
+        [
+          "Now that we are no longer strained between politics and guarding the <color=yellow>Spire</color>, we can focus on what truly matters: solving the <color=yellow>Spire</color>'s collapse.",
+          "NONE"
+        ],
+        [
+          "Know, Barkeep, that our story is only beginning.",
+          "inquisitive"
+        ],
+        [
+          "There is much to learn of the <color=yellow>Spire</color>'s history, and we must learn it quickly- within eight days time if I overheard your conversation accurately.",
+          "NONE"
+        ],
+        [
+          "We must seek aid from our ancestors, the stars, ancient ruins, and the <color=yellow>Spire</color> itself.",
+          "NONE"
+        ],
+        [
+          "We will work closely in the days to come. I pray we can work the others as well.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Day7CorporealSidedWithCollege": {
+      "Name": "Day7CorporealSidedWithCollege",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Barkeep.",
+          "NONE"
+        ],
+        [
+          "I do not doubt your intentions. I understand them to be good.",
+          "NONE"
+        ],
+        [
+          "However, the <color=#01B117>College</color> recently gained access to the <color=yellow>Spire</color> because of your influence.",
+          "special"
+        ],
+        [
+          "If they are not careful, they may hasten the <color=yellow>Spire</color>'s ruin.",
+          "NONE"
+        ],
+        [
+          "As always, we shall be dutiful, ensuring the <color=yellow>Spire</color> remains intact.",
+          "NONE"
+        ],
+        [
+          "But I believe it is time for me to act of my own accord- to take action where I see none.",
+          "Cheerful"
+        ],
+        [
+          "I shall journey beyond <color=yellow>Seven Stones</color> to seek aid from the <color=yellow>Pantheon</color> itself.",
+          "NONE"
+        ],
+        [
+          "Be sure that the <color=yellow>Spire</color> remains intact while I am away.",
+          "special"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Day7SupportCorporeal": {
+      "Name": "Day7SupportCorporeal",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Good morning, Barkeep.",
+          "NONE"
+        ],
+        [
+          "You can rest easily, knowing that the Spire fragment is safe and secure, back in our hands.",
+          "NONE"
+        ],
+        [
+          "This act of honor will not be forgotten, I can promise you. I am eternally grateful for your help in the matter.",
+          "NONE"
+        ],
+        [
+          "And I believe it's high time that I be honest with you about the state of the Spire. You've proven yourself a worthy ally, after all.",
+          "NONE"
+        ],
+        [
+          "As I'm sure you know, the Spire's magic is what keeps this city safe- a gift from the gods, to repel any unwanted aggressors.",
+          "NONE"
+        ],
+        [
+          "However, as of late, the magic within the Spire has become... unstable.",
+          "NONE"
+        ],
+        [
+          "So much so, that we fear it may shatter itself in its entirety, one day. And that day may be soon.",
+          "NONE"
+        ],
+        [
+          "When that happens, Kastonia will undoubtedly be devastated. It's at times like this that we will need to look inwards for help.",
+          "NONE"
+        ],
+        [
+          "Towards divinity.",
+          "NONE"
+        ],
+        [
+          "I'll elaborate at a later date... when we've figured out what our next step will be.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    },
+
+    "Day7AidCorporeal": {
+      "Name": "Day7AidCorporeal",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Good morning, Barkeep.",
+          "NONE"
+        ],
+        [
+          "Thanks to your testimony, the thief has been brought to justice, and will be imprisoned.",
+          "NONE"
+        ],
+        [
+          "Furthermore, this allows us to finally take action against the treacherous College, whose eyes have been set on us from their inception.",
+          "NONE"
+        ],
+        [
+          "But this needs not concern you. Not yet, at least... although I may need to enlist your help in the future, should you choose to accept it.",
+          "NONE"
+        ],
+        [
+          "And I believe it's high time that I be honest with you about the state of the Spire. You've proven yourself a worthy ally, after all.",
+          "NONE"
+        ],
+        [
+          "As I'm sure you know, the Spire's magic is what keeps this city safe- a gift from the gods, to repel any unwanted aggressors.",
+          "NONE"
+        ],
+        [
+          "However, as of late, the magic within the Spire has become... unstable.",
+          "NONE"
+        ],
+        [
+          "So much so, that we fear it may shatter itself in its entirety, one day. And that day may be soon.",
+          "NONE"
+        ],
+        [
+          "When that happens, Kastonia will undoubtedly be devastated. It's at times like this that we will need to look inwards for help.",
+          "NONE"
+        ],
+        [
+          "Towards divinity.",
+          "NONE"
+        ],
+        [
+          "I'll elaborate at a later date... when we've figured out what our next step will be.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": [
+      ]
+    }
+  },
+
+
+  "Jim": {
+
+    "Introduction": {
+      "Name": "???",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": true,
+      "Stanzas": [
+        [
+          "...or maybe that confused look on your face means that you're still working on learning the ropes? Hah!",
+          "cheerful"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": []
+    },
+
+    "Now You Know Me": {
+      "Name": "Jim",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Name's <color=orange>Jim</color>. I've been a patron of your parents since they opened this place!",
+          "inquisitive"
+        ],
+        [
+          "...you still seem a little rattled. Tell you what, why don't I give you a helping hand! It's the least I can do for your parents' decades of service.",
+          "NONE"
+        ],
+        [
+          "To start off, why don't you make me a <color=yellow>drink</color>? Been a while since I've had one of your parent's expert brews.",
+          "NONE"
+        ],
+        [
+          "It shouldn't be all that hard. Each of the taps are <color=yellow>color-coded</color> after all, ho ho!",
+          "none"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": []
+    },
+
+    "Jim Explains Rumors": {
+      "Name": "Jim Explains Rumors",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Whoa there- looks like one of your patrons has given you a <color=yellow>quest</color>!",
+          "special"
+        ],
+        [
+          "...what're you giving me that look for? You didn't think that serving drinks was your ONLY job as a bartender, right?",
+          "NONE"
+        ],
+        [
+          "Whether wittingly or unwittingly, people tend to spill all sorts of <color=yellow>interesting problems</color> to whomever provides them alcohol.",
+          "NONE"
+        ],
+        [
+          "It's up to you to help resolve these issues in the most efficient way- by passing them off to another patron and bribing them with drinks- ho ho!",
+          "NONE"
+        ],
+        [
+          "This first one's easy- you just need someone to pick up your bartending certification, right?",
+          "NONE"
+        ],
+        [
+          "Why not just ask the first person to come through the bar next? I'll take a seat in the back, just in case.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": []
+    },
+
+    "EndDay1": {
+      "Name": "Jim",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Looks like you had a fairly successful first day!",
+          "NONE"
+        ],
+        [
+          "I'm gonna head on out so you can close up shop, but don't worry- I'll be here bright and early in the morn'!",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": []
+    },
+
+    "Day 2 Intro": {
+      "Name": "Jim",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Mornin', kid! Y'know, I'm starting to get used to it being you behind that bar instead of your folks.",
+          "NONE"
+        ],
+        [
+          "Despite your age, you actually make for a pretty good barkeep. Ho ho!",
+          "NONE"
+        ],
+        [
+          "Now then, why don't you pour me a-",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": []
+    },
+
+
+    "The Commotion": {
+      "Name": "Jim",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "...holy smokes- kid, did you feel that?",
+          "NONE"
+        ],
+        [
+          "I don't think it's just me... I only had a couple drinks before stopping by!",
+          "NONE"
+        ],
+        [
+          "Felt almost like an <color=red>earthquake</color>, but a lot more violent and sudden. I wonder what's happened?",
+          "NONE"
+        ],
+        [
+          "Whoa, whoa, hold on now- I see that look of eager curiosity in your eyes, but you've got a bar to run, right?",
+          "NONE"
+        ],
+        [
+          "Why don't you have send another one of your patrons off? I know Deidre is a fairly perceptive lass, she may be best suited to the task.",
+          "NONE"
+        ],
+        [
+          "And it'll give you the opportunity to keep doing your job! Speaking of which...",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": []
+    },
+
+    "After Sending Deidre": {
+      "Name": "Jim",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "And now we wait! Ol' Deidre may be a little... eccentric, but I can speak to her reliability.",
+          "NONE"
+        ],
+        [
+          "Also, you may have realized this already, but your efforts to help out don't go unnoticed.",
+          "NONE"
+        ],
+        [
+          "The more tasks you hand out to folks, the more chummy they'll tend to be with you.",
+          "NONE"
+        ],
+        [
+          "And who knows? Maybe you'll end up <color=yellow>learning something new about them</color> in the process!",
+          "NONE"
+        ],
+        [
+          "Anyways, I'm gonna go nurse this drink in the back for a while and let you tend the bar. Best of luck!",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": []
+    },
+
+    "Your Civic Duty": {
+      "Name": "Your Civic Duty",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "So I take it you've heard the news by now, hmm? After all, it's not like you can't see it from here, ho ho!",
+          "NONE"
+        ],
+        [
+          "Of course, I don't mean to make light of this situation. The <color=yellow>Spire</color> has been our benefactor of magical power for as long as anyone can remember.",
+          "NONE"
+        ],
+        [
+          "After all, that's why Kastonia was built around that looming tower!",
+          "NONE"
+        ],
+        [
+          "But I digress... there's not much that can be done about the <color=yellow>Spire</color> now, but the devastation caused by yesterday's event is still very present.",
+          "NONE"
+        ],
+        [
+          "I know this isn't quite what you signed up for, kid, but maybe you could see about sending another patron off to provide aid? The city could use it.",
+          "NONE"
+        ],
+        [
+          "Here, I'll hand this off to you while you think it over.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": []
+    },
+
+    "Day7TeaserCorporeal": {
+      "Name": "Day7TeaserCorporeal",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Who was that, kid? Someone from the <color=#64B5F6>Corporeal</color>?",
+          "NONE"
+        ],
+        [
+          "Seems like you got a lot on your plate- serving drinks, wading through factions, coordinating the <color=yellow>Spire</color> crisis... and it's only been a week!",
+          "NONE"
+        ],
+        [
+          "I can only imagine what'll happen in these next several days!",
+          "NONE"
+        ],
+        [
+          "Until then, you'd better rest up. You've got a lot to do!",
+          "NONE"
+        ],
+        [
+          "I'm lookin' forward to seeing what you accomplish.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": []
+    },
+
+    "Day7TeaserCollege": {
+      "Name": "Day7TeaserCollege",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Who was that, kid? Someone from the <color=#01B117>College</color>?",
+          "NONE"
+        ],
+        [
+          "Seems like you got a lot on your plate- serving drinks, wading through factions, coordinating the <color=yellow>Spire</color> crisis... and it's only been a week!",
+          "NONE"
+        ],
+        [
+          "I can only imagine what'll happen in these next several days!",
+          "NONE"
+        ],
+        [
+          "Until then, you'd better rest up. You've got a lot to do!",
+          "NONE"
+        ],
+        [
+          "I'm lookin' forward to seeing what you accomplish.",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": []
+    },
+
+    "Day7CollegeCollege": {
+      "Name": "Day7CollegeCollege",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Hoo boy, you sure've lit a fire between those two factions, haven't you?",
+          "NONE"
+        ],
+        [
+          "Ho ho, I'm kidding, kid. They've always been like this...",
+          "NONE"
+        ],
+        [
+          "...although that little girl doesn't mince words, does she? Kastonia may be in for some dark days ahead.",
+          "NONE"
+        ],
+        [
+          "But hey, that's what we need you for, right? Someone to pour drinks and lend an ear.",
+          "NONE"
+        ],
+        [
+          "As far as I'm concerned, this bar's the real bastion of Kastonia. And you're the kid that's gonna keep this city from tearing itself apart.",
+          "NONE"
+        ],
+        [
+          "I imagine your work isn't done yet. *wink*",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": []
+    },
+    "Day7CollegeCorporeal": {
+      "Name": "Day7CollegeCorporeal",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Hoo boy, you sure've lit a fire between those two factions, haven't you?",
+          "NONE"
+        ],
+        [
+          "Ho ho, I'm kidding, kid. They've always been like this...",
+          "NONE"
+        ],
+        [
+          "...although that knight doesn't mince words, does he? Kastonia may be in for some dark days ahead.",
+          "NONE"
+        ],
+        [
+          "But hey, that's what we need you for, right? Someone to pour drinks and lend an ear.",
+          "NONE"
+        ],
+        [
+          "As far as I'm concerned, this bar's the real bastion of Kastonia. And you're the kid that's gonna keep this city from tearing itself apart.",
+          "NONE"
+        ],
+        [
+          "I imagine your work isn't done yet. *wink*",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": []
+    },
+
+    "GDC Tutorial End": {
+      "Name": "GDC Tutorial End",
+      "IsConversationOneShot": true,
+      "IsConversationUnlockedFromStart": false,
+      "Stanzas": [
+        [
+          "Goodness! That sounded rather foreboding, didn't it? I wonder what they meant by that.",
+          "NONE"
+        ],
+        [
+          "Unfortunately for you, the devs aren't willing to divulge that information quite yet. What a bunch of teases, ho ho!",
+          "NONE"
+        ],
+        [
+          "However, I have good news. If you're interested in keeping up with this game's development cycle, you can follow the devs on Twitter!",
+          "NONE"
+        ],
+        [
+          "Check them out at <color=yellow>@ArmsAndAle</color>, and give them a follow! I'm sure they'd appreciate it.",
+          "NONE"
+        ],
+        [
+          "Well, alright kid. That's about all I've got for now. Hopefully I'll be seeing you soon.",
+          "NONE"
+        ],
+        [
+          "Watch out for the release of <color=yellow>'A Tale of Arms and Ale'</color> this coming May!",
+          "NONE"
+        ]
+      ],
+      "PatronReward": [],
+      "QuestChains": [],
+      "TownEvents": [],
+      "locationsUnlocked": [],
+      "conversationsUnlocked": []
+    }
+
+  }
+}
